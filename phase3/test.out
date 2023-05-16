@@ -1,0 +1,15 @@
+open scope
+open scope
+close scope
+x: typespec: 285indirection: 0type: 3
+
+open scope
+y: typespec: 285indirection: 0type: 3
+
+close scope
+declare h as (285, 1, FUNCTION)
+a: typespec: 285indirection: 0type: 0
+
+b: typespec: 285indirection: 1type: 0
+
+close scope
